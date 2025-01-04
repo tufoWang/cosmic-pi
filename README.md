@@ -65,5 +65,5 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - Special thanks to the open-source community for their contributions.
 - PiCore team and Pioneers
 
-                                    **Pi to the moon .. 🚀**
+                                    Pi to the moon .. 🚀
   
