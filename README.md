@@ -59,6 +59,16 @@
 [![Blue Origin Partnership](https://img.shields.io/badge/Blue%20Origin-Partnership-orange.svg)](https://www.blueorigin.com/)
 [![NASA Artemis Program](https://img.shields.io/badge/NASA-Artemis%20Program-blue.svg)](https://www.nasa.gov/specials/artemis/)
 [![ESA ExoMars Program](https://img.shields.io/badge/ESA-ExoMars%20Program-green.svg)](https://exploration.esa.int/mars/)
+[![NASA Jet Propulsion Laboratory](https://img.shields.io/badge/NASA-Jet%20Propulsion%20Laboratory-blue.svg)](https://www.jpl.nasa.gov/)
+[![ESA Copernicus Program](https://img.shields.io/badge/ESA-Copernicus%20Program-green.svg)](https://www.copernicus.eu/)
+[![ISRO Gaganyaan](https://img.shields.io/badge/ISRO-Gaganyaan%20Mission-orange.svg)](https://www.isro.gov.in/)
+[![JAXA Hayabusa2](https://img.shields.io/badge/JAXA-Hayabusa2%20Mission-red.svg)](https://www.jaxa.jp/projects/rockets/hayabusa2/)
+[![CNSA Tianwen-1](https://img.shields.io/badge/CNSA-Tianwen--1%20Mission-purple.svg)](http://www.cnsa.gov.cn)
+[![Roscosmos Soyuz Program](https://img.shields.io/badge/Roscosmos-Soyuz%20Program-lightblue.svg)](https://www.roscosmos.ru/)
+[![NASA Commercial Crew](https://img.shields.io/badge/NASA-Commercial%20Crew%20Program-yellow.svg)](https://www.nasa.gov/exploration/commercial/crew/index.html)
+[![ESA Space Debris](https://img.shields.io/badge/ESA-Space%20Debris%20Program-orange.svg)](https://www.esa.int/Safety_Security/Space_Debris)
+[![NASA Mars 2020](https://img.shields.io/badge/NASA-Mars%202020%20Mission-blue.svg)](https://mars.nasa.gov/mars2020/)
+[![JAXA International Space Station](https://img.shields.io/badge/JAXA-International%20Space%20Station%20Program-green.svg)](https://iss.jaxa.jp/en/)
 
 # cosmic-pi
 A cutting-edge blockchain project integrating Pi Coin as a stablecoin for interstellar transactions and resource tokenization, aimed at supporting space exploration and colonization efforts.
