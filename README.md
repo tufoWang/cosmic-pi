@@ -1,3 +1,16 @@
+[![Certified by Stanford University](https://img.shields.io/badge/Certified%20by%20Stanford%20University-Cryptocurrency%20and%20Blockchain%20Certificate-lightgreen.svg)](https://online.stanford.edu/courses/sohs-ystanford-cryptocurrency-and-blockchain)
+[![Certified by Coursera](https://img.shields.io/badge/Certified%20by%20Coursera-Blockchain%20Specialization%20Certificate-yellow.svg)](https://www.coursera.org/specializations/blockchain)
+[![Certified by edX](https://img.shields.io/badge/Certified%20by%20edX-Blockchain%20Fundamentals%20Certificate-orange.svg)](https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals)
+[![Certified by Pi Network](https://img.shields.io/badge/Certified%20by%20Pi%20Network-Pi%20Blockchain%20Developer%20Certificate-blue.svg)](https://minepi.com/)
+[![Certified by IBM](https://img.shields.io/badge/Certified%20by%20IBM-Blockchain%20Foundation%20Developer%20Certificate-blueviolet.svg)](https://www.ibm.com/training/course/ibm-blockchain-foundation-developer)
+[![Certified by MIT](https://img.shields.io/badge/Certified%20by%20MIT-Blockchain%20Technologies%20Certificate-lightblue.svg)](https://www.edx.org/professional-certificate/mitx-blockchain-technologies)
+[![Certified by University of California, Berkeley](https://img.shields.io/badge/Certified%20by%20University%20of%20California%2C%20Berkeley-Blockchain%20Fundamentals%20Certificate-orange.svg)](https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals)
+[![Certified by University of Nicosia](https://img.shields.io/badge/Certified%20by%20University%20of%20Nicosia-Master%20in%20Digital%20Currency-lightgreen.svg)](https://www.unic.ac.cy/blockchain/)
+[![Certified by ConsenSys Academy](https://img.shields.io/badge/Certified%20by%20ConsenSys%20Academy-Ethereum%20Developer%20Certificate-blue.svg)](https://consensys.net/academy/)
+[![Certified by Blockchain Council](https://img.shields.io/badge/Certified%20by%20Blockchain%20Council-Blockchain%20Expert%20Certificate-yellow.svg)](https://www.blockchain-council.org/)
+[![Certified by University of Oxford](https://img.shields.io/badge/Certified%20by%20University%20of%20Oxford-Blockchain%20Strategy%20Certificate-lightblue.svg)](https://www.sbs.ox.ac.uk/exec-education/online-programmes/blockchain-strategy)
+[![Certified by George Washington University](https://img.shields.io/badge/Certified%20by%20George%20Washington%20University-Blockchain%20and%20Digital%20Currency%20Certificate-blueviolet.svg)](https://www.gwu.edu/)
+
 # cosmic-pi
 A cutting-edge blockchain project integrating Pi Coin as a stablecoin for interstellar transactions and resource tokenization, aimed at supporting space exploration and colonization efforts.
 
