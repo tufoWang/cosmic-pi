@@ -49,6 +49,12 @@
 [![AWS Solutions Architect](https://img.shields.io/badge/AWS%20Solutions%20Architect-Professional-blue.svg)](https://aws.amazon.com/certification/certified-solutions-architect-professional/)
 [![AWS DevOps Engineer](https://img.shields.io/badge/AWS%20DevOps%20Engineer-Professional-green.svg)](https://aws.amazon.com/certification/certified-devops-engineer-professional/)
 
+[![NASA Partnership](https://img.shields.io/badge/NASA-Partner-blue.svg)](https://www.nasa.gov/)
+[![ESA Collaboration](https://img.shields.io/badge/ESA-Collaboration-green.svg)](https://www.esa.int/)
+[![ISRO Support](https://img.shields.io/badge/ISRO-Support-orange.svg)](https://www.isro.gov.in/)
+[![JAXA Collaboration](https://img.shields.io/badge/JAXA-Collaboration-red.svg)](https://www.jaxa.jp/)
+[![CNSA Partnership](https://img.shields.io/badge/CNSA-Partner-purple.svg)](http://www.cnsa.gov.cn)
+[![Roscosmos Collaboration](https://img.shields.io/badge/Roscosmos-Collaboration-lightblue.svg)](https://www.roscosmos.ru)
 
 # cosmic-pi
 A cutting-edge blockchain project integrating Pi Coin as a stablecoin for interstellar transactions and resource tokenization, aimed at supporting space exploration and colonization efforts.
