@@ -1,0 +1,70 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Cosmic Pi - Blockchain Explorer</title>
+    <link rel="stylesheet" href="styles/main.css">
+    <link rel="stylesheet" href="styles/responsive.css">
+    <script src="https://cdn.jsdelivr.net/npm/vue@2"></script> <!-- Using Vue.js for the frontend -->
+</head>
+<body>
+    <div id="app">
+        <header>
+            <h1>Cosmic Pi Blockchain Explorer</h1>
+            <nav>
+                <ul>
+                    <li><a href="#transactions">Transactions</a></li>
+                    <li><a href="#resources">Resources</a></li>
+                    <li><a href="#analytics">Analytics</a></li>
+                </ul>
+            </nav>
+        </header>
+
+        <main>
+            <section id="transactions">
+                <h2>Transactions</h2>
+                <div>
+                    <form @submit.prevent="submitTransaction">
+                        <input type="text" v-model="transaction.sender" placeholder="Sender Address" required>
+                        <input type="text" v-model="transaction.recipient" placeholder="Recipient Address" required>
+                        <input type="number" v-model="transaction.amount" placeholder="Amount" required>
+                        <button type="submit">Send Transaction</button>
+                    </form>
+                </div>
+                <div>
+                    <h3>Transaction History</h3>
+                    <ul>
+                        <li v-for="tx in transactions" :key="tx.id">{{ tx.sender }} sent {{ tx.amount }} to {{ tx.recipient }}</li>
+                    </ul>
+                </div>
+            </section>
+
+            <section id="resources">
+                <h2>Resources</h2>
+                <div>
+                    <h3>Available Resources</h3>
+                    <ul>
+                        <li v-for="resource in resources" :key="resource.name">{{ resource.name }}: {{ resource.amount }}</li>
+                    </ul>
+                </div>
+            </section>
+
+            <section id="analytics">
+                <h2>Analytics</h2>
+                <div>
+                    <h3>Blockchain Summary</h3>
+                    <p>Total Transactions: {{ summary.total_transactions }}</p>
+                    <p>Total Users: {{ summary.total_users }}</p>
+                </div>
+            </section>
+        </main>
+
+        <footer>
+            <p>&copy; 2025 Cosmic Pi. All rights reserved.</p>
+        </footer>
+    </div>
+
+    <script src="scripts/app.js"></script>
+</body>
+</html>
