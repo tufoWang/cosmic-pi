@@ -33,7 +33,6 @@
 [![Certified by AFA](https://img.shields.io/badge/Certified%20by%20AFA-Accredited%20Financial%20Analyst%20Certificate-blue.svg)](https://www.afa.org/)
 [![Certified by CIIA](https://img.shields.io/badge/Certified%20by%20CIIA-Certified%20International%20Investment%20Analyst%20(CIIA)-orange.svg)](https://www.ciiaglobal.org/)
 [![Certified by IIBF](https://img.shields.io/badge/Certified%20by%20IIBF-Indian%20Institute%20of%20Banking%20and%20Finance%20Certificate-red.svg)](https://www.iibf.org.in/)
-[![Certified by ISO](https://img.shields.io/badge/Certified% by%20ISO-ISO%2012345%20Certified-blue.svg)](https://www.iso.org/)
 [![Certified by IEEE](https://img.shields.io/badge/Certified%20by%20IEEE-IEEE%20Standard%20Compliance-green.svg)](https://www.ieee.org/)
 [![Certified by W3C](https://img.shields.io/badge/Certified%20by%20W3C-W3C%20Standards%20Compliant-orange.svg)](https://www.w3.org/)
 [![Certified by EC-Council](https://img.shields.io/badge/Certified%20by%20EC--Council-Certified%20Ethical%20Hacker%20(CEH)-red.svg)](https://www.eccouncil.org/)
@@ -42,7 +41,6 @@
 [![Certified by Microsoft](https://img.shields.io/badge/Certified%20by%20Microsoft-Microsoft%20Certified%20Azure%20Developer%20Associate-purple.svg)](https://www.microsoft.com/)
 [![Certified by Oracle](https://img.shields.io/badge/Certified%20by%20Oracle-Oracle%20Certified%20Java%20Professional-lightgreen.svg)](https://www.oracle.com/)
 [![Certified by Red Hat](https://img.shields.io/badge/Certified%20by%20Red%20Hat-Red%20Hat%20Certified%20Engineer%20(RHCE)-blue.svg)](https://www.redhat.com/)
-[![Certified by AWS](https://img.shields.io/badge/Certified%20by%20AWS-AWS%20Certified%20Solutions%20Architect%20-%20Associate-orange.svg)](https://aws.amazon.com/)
 
 # cosmic-pi
 A cutting-edge blockchain project integrating Pi Coin as a stablecoin for interstellar transactions and resource tokenization, aimed at supporting space exploration and colonization efforts.
