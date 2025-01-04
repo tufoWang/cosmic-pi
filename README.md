@@ -10,6 +10,12 @@
 [![Certified by Blockchain Council](https://img.shields.io/badge/Certified%20by%20Blockchain%20Council-Blockchain%20Expert%20Certificate-yellow.svg)](https://www.blockchain-council.org/)
 [![Certified by University of Oxford](https://img.shields.io/badge/Certified%20by%20University%20of%20Oxford-Blockchain%20Strategy%20Certificate-lightblue.svg)](https://www.sbs.ox.ac.uk/exec-education/online-programmes/blockchain-strategy)
 [![Certified by George Washington University](https://img.shields.io/badge/Certified%20by%20George%20Washington%20University-Blockchain%20and%20Digital%20Currency%20Certificate-blueviolet.svg)](https://www.gwu.edu/)
+[![Certified by Blockchain Training Alliance](https://img.shields.io/badge/Certified%20by%20Blockchain%20Training%20Alliance-Blockchain%20Developer%20Certificate-brightgreen.svg)](https://www.blockchaintrainingalliance.com/)
+[![Certified by Hyperledger](https://img.shields.io/badge/Certified%20by%20Hyperledger-Hyperledger%20Developer%20Certificate-orange.svg)](https://www.hyperledger.org/)
+[![Certified by IBM](https://img.shields.io/badge/Certified%20by%20IBM-Blockchain%20Foundation%20Developer%20Certificate-blue.svg)](https://www.ibm.com/training/)
+[![Certified by Blockchain Academy](https://img.shields.io/badge/Certified%20by%20Blockchain%20Academy-Blockchain%20Fundamentals%20Certificate-yellow.svg)](https://www.blockchainacademy.com/)
+[![Certified by MIT](https://img.shields.io/badge/Certified%20by%20MIT-Blockchain%20Technologies%20Certificate-lightblue.svg)](https://executive.mit.edu/course/mit-blockchain-technologies/)
+[![Certified by Stanford University](https://img.shields.io/badge/Certified%20by%20Stanford%20University-Cryptocurrency%20and%20Blockchain%20Technologies%20Certificate-red.svg)](https://online.stanford.edu/courses/sohs-ystatsci-cryptocurrency-and-blockchain-technologies)
 
 # cosmic-pi
 A cutting-edge blockchain project integrating Pi Coin as a stablecoin for interstellar transactions and resource tokenization, aimed at supporting space exploration and colonization efforts.
