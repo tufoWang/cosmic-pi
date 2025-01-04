@@ -21,7 +21,6 @@
 [![Certified by Blockchain Council](https://img.shields.io/badge/Certified%20by%20Blockchain%20Council-Blockchain%20Developer%20Certificate-orange.svg)](https://www.blockchain-council.org/)
 [![Certified by DLT Education](https://img.shields.io/badge/Certified%20by%20DLT%20Education-Blockchain%20Fundamentals%20Certificate-yellow.svg)](https://dlt.education/)
 [![Certified by The Blockchain Academy](https://img.shields.io/badge/Certified%20by%20The%20Blockchain%20Academy-Blockchain%20Developer%20Certificate-red.svg)](https://www.blockchainacademy.com/)
-[![Certified by University of Nicosia](https://img.shields.io/badge/Certified%20by%20University%20of%20Nicosia-Master%20in%20Digital%20Currency-lightblue.svg)](https://www.unic.ac.cy/blockchain/)
 
 # cosmic-pi
 A cutting-edge blockchain project integrating Pi Coin as a stablecoin for interstellar transactions and resource tokenization, aimed at supporting space exploration and colonization efforts.
