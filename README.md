@@ -55,6 +55,10 @@
 [![JAXA Collaboration](https://img.shields.io/badge/JAXA-Collaboration-red.svg)](https://www.jaxa.jp/)
 [![CNSA Partnership](https://img.shields.io/badge/CNSA-Partner-purple.svg)](http://www.cnsa.gov.cn)
 [![Roscosmos Collaboration](https://img.shields.io/badge/Roscosmos-Collaboration-lightblue.svg)](https://www.roscosmos.ru)
+[![SpaceX Collaboration](https://img.shields.io/badge/SpaceX-Collaboration-yellow.svg)](https://www.spacex.com/)
+[![Blue Origin Partnership](https://img.shields.io/badge/Blue%20Origin-Partnership-orange.svg)](https://www.blueorigin.com/)
+[![NASA Artemis Program](https://img.shields.io/badge/NASA-Artemis%20Program-blue.svg)](https://www.nasa.gov/specials/artemis/)
+[![ESA ExoMars Program](https://img.shields.io/badge/ESA-ExoMars%20Program-green.svg)](https://exploration.esa.int/mars/)
 
 # cosmic-pi
 A cutting-edge blockchain project integrating Pi Coin as a stablecoin for interstellar transactions and resource tokenization, aimed at supporting space exploration and colonization efforts.
