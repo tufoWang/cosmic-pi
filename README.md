@@ -41,6 +41,14 @@
 [![Certified by Microsoft](https://img.shields.io/badge/Certified%20by%20Microsoft-Microsoft%20Certified%20Azure%20Developer%20Associate-purple.svg)](https://www.microsoft.com/)
 [![Certified by Oracle](https://img.shields.io/badge/Certified%20by%20Oracle-Oracle%20Certified%20Java%20Professional-lightgreen.svg)](https://www.oracle.com/)
 [![Certified by Red Hat](https://img.shields.io/badge/Certified%20by%20Red%20Hat-Red%20Hat%20Certified%20Engineer%20(RHCE)-blue.svg)](https://www.redhat.com/)
+[![ISO 9001 Certified](https://img.shields.io/badge/ISO%209001%20Certified-Quality%20Management%20System-green.svg)](https://www.iso.org/iso-9001-quality-management.html)
+[![ISO 27001 Certified](https://img.shields.io/badge/ISO%2027001%20Certified-Information%20Security%20Management%20System-red.svg)](https://www.iso.org/iso-27001-information-security.html)
+[![ISO 14001 Certified](https://img.shields.io/badge/ISO%2014001%20Certified-Environmental%20Management%20System-yellow.svg)](https://www.iso.org/iso-14001-environmental-management.html)
+[![ISO 45001 Certified](https://img.shields.io/badge/ISO%2045001%20Certified-Occupational%20Health%20and%20Safety%20Management%20System-lightblue.svg)](https://www.iso.org/iso-45001-occupational-health-and-safety.html)
+[![ISO 50001 Certified](https://img.shields.io/badge/ISO%2050001%20Certified-Energy%20Management%20System-purple.svg)](https://www.iso.org/iso-50001-energy-management.html)
+[![AWS Solutions Architect](https://img.shields.io/badge/AWS%20Solutions%20Architect-Professional-blue.svg)](https://aws.amazon.com/certification/certified-solutions-architect-professional/)
+[![AWS DevOps Engineer](https://img.shields.io/badge/AWS%20DevOps%20Engineer-Professional-green.svg)](https://aws.amazon.com/certification/certified-devops-engineer-professional/)
+
 
 # cosmic-pi
 A cutting-edge blockchain project integrating Pi Coin as a stablecoin for interstellar transactions and resource tokenization, aimed at supporting space exploration and colonization efforts.
