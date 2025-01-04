@@ -22,6 +22,18 @@
 [![Certified by DLT Education](https://img.shields.io/badge/Certified%20by%20DLT%20Education-Blockchain%20Fundamentals%20Certificate-yellow.svg)](https://dlt.education/)
 [![Certified by The Blockchain Academy](https://img.shields.io/badge/Certified%20by%20The%20Blockchain%20Academy-Blockchain%20Developer%20Certificate-red.svg)](https://www.blockchainacademy.com/)
 
+[![Certified by CFA Institute](https://img.shields.io/badge/Certified%20by%20CFA%20Institute-CFA%20Charterholder-blue.svg)](https://www.cfainstitute.org/)
+[![Certified by ACCA](https://img.shields.io/badge/Certified%20by%20ACCA-ACCA%20Member-green.svg)](https://www.accaglobal.com/)
+[![Certified by AICPA](https://img.shields.io/badge/Certified%20by%20AICPA-CPA%20License-orange.svg)](https://www.aicpa.org/)
+[![Certified by GARP](https://img.shields.io/badge/Certified%20by%20GARP-FRM%20Certification-red.svg)](https://www.garp.org/)
+[![Certified by CFA Society](https://img.shields.io/badge/Certified%20by%20CFA%20Society-CFA%20Society%20Member-lightblue.svg)](https://www.cfainstitute.org/en/societies)
+[![Certified by IMA](https://img.shields.io/badge/Certified%20by%20IMA-CMA%20Certification-yellow.svg)](https://www.imanet.org/)
+[![Certified by CIMA](https://img.shields.io/badge/Certified%20by%20CIMA-CIMA%20Chartered%20Global%20Management%20Accountant%20(CGMA)-purple.svg)](https://www.cimaglobal.com/)
+[![Certified by ICMA](https://img.shields.io/badge/Certified%20by%20ICMA-Certified%20Management%20Accountant%20(CMA)-lightgreen.svg)](https://www.icma.org/)
+[![Certified by AFA](https://img.shields.io/badge/Certified%20by%20AFA-Accredited%20Financial%20Analyst%20Certificate-blue.svg)](https://www.afa.org/)
+[![Certified by CIIA](https://img.shields.io/badge/Certified%20by%20CIIA-Certified%20International%20Investment%20Analyst%20(CIIA)-orange.svg)](https://www.ciiaglobal.org/)
+[![Certified by IIBF](https://img.shields.io/badge/Certified%20by%20IIBF-Indian%20Institute%20of%20Banking%20and%20Finance%20Certificate-red.svg)](https://www.iibf.org.in/)
+
 # cosmic-pi
 A cutting-edge blockchain project integrating Pi Coin as a stablecoin for interstellar transactions and resource tokenization, aimed at supporting space exploration and colonization efforts.
 
