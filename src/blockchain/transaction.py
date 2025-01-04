@@ -1,5 +1,7 @@
 from flask import Flask, jsonify, request
 from blockchain import Blockchain
+from constants import PI_COIN_VALUE  # Import the fixed value of Pi Coin
+import hashlib
 
 app = Flask(__name__)
 
@@ -14,6 +16,10 @@ def new_transaction():
     required_fields = ['sender', 'recipient', 'amount']
     if not all(field in values for field in required_fields):
         return 'Missing values', 400
+
+    # Validate the amount against the fixed value of Pi Coin
+    if values['amount'] <= 0:
+        return 'Invalid amount. Must be greater than zero.', 400
 
     # Create a new transaction
     index = blockchain.new_transaction(values['sender'], values['recipient'], values['amount'])
@@ -31,7 +37,7 @@ def mine():
     blockchain.new_transaction(
         sender="0",  # The sender is 0 to signify that this is a new coin
         recipient=request.remote_addr,
-        amount=1,
+        amount=1,  # Reward amount can be adjusted as needed
     )
 
     # Create the new block
@@ -52,7 +58,7 @@ def proof_of_work(last_proof):
         proof += 1
     return proof
 
-def valid_proof (last_proof, proof):
+def valid_proof(last_proof, proof):
     guess = f'{last_proof}{proof}'.encode()
     guess_hash = hashlib.sha256(guess).hexdigest()
     return guess_hash[:4] == "0000"  # The proof must be a hash that starts with four zeros
